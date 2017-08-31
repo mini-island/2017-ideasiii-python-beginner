@@ -21,5 +21,5 @@
 * https://repl.it
 
 ## 教材：
-* https://docs.python.org/3/library/index.html
-* http://www.runoob.com/python3/python3-tutorial.html
+* [Python官方手冊](https://docs.python.org/3/library/index.html)
+* [Python 3 教程](http://www.runoob.com/python3/python3-tutorial.html)
