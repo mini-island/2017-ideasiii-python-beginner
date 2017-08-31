@@ -33,7 +33,6 @@ print(var1[0]) # H, 從0開始
 print(var2[1:5]) # "ytho", 1到小於5
 print('-----')
 ```
-* [下載 sample.py](sample.py)
 * [Run it online](https://repl.it/K701/latest)
 
 ## 參考資訊
