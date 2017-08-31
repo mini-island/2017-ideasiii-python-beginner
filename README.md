@@ -16,3 +16,10 @@
 11. Databases Programming (資料庫程式設計)
 12. Multithreading (多執行緒)
 13. Networking Programming (網路程式設計)
+
+## 線上直譯器
+* https://repl.it
+
+## 教材：
+* https://docs.python.org/3/library/index.html
+* http://www.runoob.com/python3/python3-tutorial.html
