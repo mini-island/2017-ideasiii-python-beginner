@@ -2,4 +2,4 @@
 * 內建的 data type: https://docs.python.org/3/library/stdtypes.html
 
 ## sample codes
-* https://repl.it/K701/7
+* https://repl.it/K701/latest
