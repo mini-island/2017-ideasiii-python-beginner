@@ -1,6 +1,3 @@
-## 參考資訊
-* [內建的 data type](https://docs.python.org/3/library/stdtypes.html)
-
 ## sample codes
 
 ```python
@@ -36,3 +33,6 @@ print('-----')
 ```
 * [下載 sample.py](sample.py)
 * [Run it online](https://repl.it/K701/latest)
+
+## 參考資訊
+* [內建的 data type](https://docs.python.org/3/library/stdtypes.html)
