@@ -2,13 +2,13 @@
 
 ## [sample.py](sample.py)
 
-<pre id="sample">
+<pre id="sample" filename="sample.py">
 sample code will be here
 </pre>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script>
 $(document).ready(function(){
-        $("#sample").load("sample.py");
+        $("#sample").load(document.getElementById('sample').getAttrirute('filename').value);
 });
 </script>
 
