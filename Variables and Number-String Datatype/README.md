@@ -1,6 +1,6 @@
 * [回上層../](../)
 
-## load test
+## [sample.py](sample.py)
 
 <pre id="sample">
 sample code will be here
