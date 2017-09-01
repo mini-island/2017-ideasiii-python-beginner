@@ -2,7 +2,7 @@
 
 ## load test
 
-<textarea id="sample">sample code will be here</textarea>
+<div id="sample">sample code will be here</div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script>
 $(document).ready(function(){
