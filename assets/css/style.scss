@@ -2,3 +2,12 @@
 ---
 
 @import 'jekyll-theme-slate';
+
+.back_home_link {
+  display: block;
+  float: right;
+  width: 90px;
+  height:70px;
+  text-indent: -5000px;
+  overflow: hidden;
+}
