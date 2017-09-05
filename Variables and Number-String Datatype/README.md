@@ -1,4 +1,4 @@
-### 說明
+### Variables and Number-String Datatype
 變數及資料型別直接看程式如何執行比較有感，所以請於本頁協作相關範例程式，在註解中提示輸出的特性。
 
 ### Sample Codes
